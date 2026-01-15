@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">peyewaan</string>
+
+    <string name="title_login">Selamat Datang</string>
+    <string name="title_register">Daftar Akun Baru</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="label_email">Alamat Email</string>
+    <string name="label_password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="prompt_register">Belum punya akun? Daftar di sini</string>
+    <string name="panduan_aplikasi">Petunjuk Penggunaan Aplikasi</string>
+
+    <string name="hint_search">Cari alat olahraga...</string>
+    <string name="label_stok">Stok tersedia: %1$d</string>
+    <string name="label_harga">Harga: Rp %1$s /hari</string>
+    <string name="btn_sewa_sekarang">Sewa Sekarang</string>
+    <string name="detail_title">Detail Alat</string>
+
+    <string name="title_riwayat">Riwayat Pesanan</string>
+    <string name="label_jumlah_pesan">Jumlah Pesanan</string>
+    <string name="label_durasi">Durasi Sewa (Hari)</string>
+    <string name="label_total">Total Harga: Rp %1$s</string>
+    <string name="btn_konfirmasi_sewa">Konfirmasi Sewa</string>
+    <string name="status_pending">Menunggu Pengambilan</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_logout">Keluar</string>
+
+    <string name="error_empty_field">Field ini tidak boleh kosong</string>
+    <string name="msg_confirm_delete">Yakin ingin menghapus pesanan ini?</string>
+    <string name="alat_tidak_ditemukan">Alat tidak ditemukan</string>
+    <string name="tgl_pengambilan">tgl_pengambilann</string>
+
+
+</resources>
